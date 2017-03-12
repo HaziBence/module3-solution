@@ -1,0 +1,23 @@
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+.context {
+  padding: 0px 20px 10px 20px;
+}
+
+.row {
+	background-color: gray;
+	margin: 0px 0px 0px 0px;
+}
+
+h2 { 
+	padding: 0px;
+	margin: 0px 0px 10px 0px;
+}
+
+body { padding-top: 70px; }
